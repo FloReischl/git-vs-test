@@ -8,7 +8,7 @@ COPY dist/sample-angular-app /usr/share/nginx/html
 EXPOSE 80
 
 
-
+ 
 
 
 #-------------------------------------
